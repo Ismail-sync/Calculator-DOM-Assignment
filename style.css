@@ -74,7 +74,6 @@ background: var(--btnOperation1);
 
 .display {
     width: 18rem;
-    height: 100px;
     border-radius: 10px;
     background-color: var(--greenScreen2);
     color:var(--textScreen1);
